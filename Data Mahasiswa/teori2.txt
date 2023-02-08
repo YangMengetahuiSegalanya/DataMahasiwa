@@ -1,0 +1,5 @@
+1. Bagian materi teori apa yang sudah ada coba praktikkan secara mandiri dan telah berhasil anda pahami?  
+Jawab : yang sudah sasya pahami dengan baik dibagian lawyer class
+
+2. Praktik apa yang masih anda perlukan untuk dapat lebih memahami implementasi dari teori yang telah diajarkan? Silahkan ditanyakan slide by slide yang belum dipahami dari materi teori 
+Jawab : yang masih belum saya pahami adalah dibagian modifying the superclass
